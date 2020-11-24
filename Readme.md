@@ -1,5 +1,5 @@
 
-This is the implematation of Djnago api with couple of tasks based on the data reagarding to IPL match.its run under Djnago 3.1.1 and python 3.7 versions
+This is the implematation of Djnago api with couple of tasks based on the data reagarding to IPL match.its run under Djnago 3.1.1 and python 3.7 versions.
 
 Please follow the below steps to create the Djnago project:
 
