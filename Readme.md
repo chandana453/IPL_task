@@ -56,8 +56,7 @@ To get the maximum player of the match try with http://127.0.0.1:8000/maximum_pl
 
 To get the maximum toss winner try with  http://127.0.0.1:8000/toss_winner/
 
-To get the which team won the maximum matches try with http://127.0.0.1:8000/winner/ .
-
+To get the which team won the maximum matches try with http://127.0.0.1:8000/winner/ 
 
 
 
