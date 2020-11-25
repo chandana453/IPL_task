@@ -81,6 +81,9 @@ Once pip has finished downloading the dependencies:
 
 And navigate to http://127.0.0.1:8000/.
 
+
+API's Created :
+
 To upload the csv files try with the url http://127.0.0.1:8000/upload
 
 To get the top 4  tems to win http://127.0.0.1:8000/pie-chart/ 
